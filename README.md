@@ -76,7 +76,7 @@ dist/app.exe
 
 ## 👩‍💻 Autora
 Luiza de Paula Matos
-Estudante de Ciência da Computação e Técnico em Informática
+<br>Estudante de Ciência da Computação e Técnico em Informática
 
 ## 🔗 LinkedIn:
 https://www.linkedin.com/in/luiza-matos-2b17a3356/
