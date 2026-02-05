@@ -75,7 +75,7 @@ dist/app.exe
 - Painel administrativo
 
 ## 👩‍💻 Autora
-Luiza de Paula Matos
+**Luiza Matos**
 <br>Estudante de Ciência da Computação e Técnico em Informática
 
 ## 🔗 LinkedIn:
