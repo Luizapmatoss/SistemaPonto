@@ -45,7 +45,7 @@ SistemaDePonto/
 ## ▶️ Como Executar
 
 ### 1️⃣ Clonar o repositório
-```bash
+
 git clone https://github.com/seu-usuario/sistema-de-ponto-python.git
 
 ### 2️⃣ Instalar dependências
